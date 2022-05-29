@@ -21,6 +21,6 @@ pip install numpy
 These commands will install the required packages for the project
 
 After doing this we are ready to run the *Face Attendence.py* File but before that...
-We must ensure that their is a folder name "StudentsImages" which contains images which we want to recognize(Student's Images in this case).
+We must ensure that their is a folder named "StudentsImages" which contains images which we want to recognize(Student's Images in this case).
 
 Now the python Script is Ready to run. 
